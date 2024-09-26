@@ -5,3 +5,4 @@ Zotero Username: Sowmya_1015
 ## Sample Text:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vehicula felis id lacus pretium, ut efficitur ex gravida. 
+[Github Repository](https://github.com/KSowmya2510/mcis6273-f24-datamining.git)
